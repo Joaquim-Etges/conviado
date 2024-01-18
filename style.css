@@ -1,0 +1,11 @@
+html{
+    text-align: center;
+    background-color: crimson;
+}
+.butao{
+    background-color: black;
+    color: white;
+}
+button{
+    border-radius: 7px;
+}
